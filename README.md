@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+#How to run this app
+Make sure you have installed latest version of flutter & dart installed.
+Goto *pubsec.yaml* file & run *flutter pub get* command.
+Now click on run.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
